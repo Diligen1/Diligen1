@@ -1,6 +1,6 @@
-<center>
-  <img src="https://github.com/Diligen1/Diligen1/blob/main/assets/cat%20header.gif" alt="Header" width="800" height="600">
-</center>
+<div style="text-align:center;">
+  <img src="https://github.com/Diligen1/Diligen1/blob/main/assets/cat%20header.gif" alt="Header" style="width:600px; height:400px;">
+</div>
 About us
 
 Latest Youtube

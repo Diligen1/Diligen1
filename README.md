@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github.com/Diligen1/Diligen1/blob/main/assets/girl.gif" align="center" style="width:800px; height:450px;" />
+<img src="https://github.com/Diligen1/Diligen1/blob/main/assets/girl.gif" align="center" style="width:600px; " />
 </div>
 
 <br/>

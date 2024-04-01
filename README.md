@@ -41,6 +41,11 @@
 
 <br/>
 
+<div align="center">
+<img src="https://github.com/Diligen1/Diligen1/blob/main/assets/girl.gif" align="center" style="width:800px; height:450px;" />
+</div>
+
+<br/>
 <h1>Соц Сети</h1>
 
 <div align="center">
@@ -57,3 +62,10 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>
+<br/>
+
+<div align="center">
+<img src="https://github.com/Diligen1/Diligen1/blob/main/assets/cat%20header.gif" align="center" style="width:800px; height:450px;" />
+</div>
+
+<br/>

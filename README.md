@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Diligen1/Diligen1/blob/main/assets/hedaer%20boy.gif" align="center" style="width:800px; height:500px;" />
+<img src="https://github.com/Diligen1/Diligen1/blob/main/assets/hedaer%20boy.gif" align="center" style="width:800px; height:450px;" />
 </div>
 
 ### <h1 align="center">Я Кубаныч, Front-End разработчик, 👨‍💻 Люблю разрабатывать приложений 🚀</h1>

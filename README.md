@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://i.gifer.com/8Z2a.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">Я Кубаныч, Front-End разработчик, 👨‍💻 Люблю разрабатывать приложений 🚀</div>
 
@@ -61,31 +60,4 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23936660/saian" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-
-<br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
-
-<br/>
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>

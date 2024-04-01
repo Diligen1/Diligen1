@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://i.gifer.com/8Z2a.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Diligen1/Diligen1/blob/main/assets/hedaer%20boy.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">Я Кубаныч, Front-End разработчик, 👨‍💻 Люблю разрабатывать приложений 🚀</div>
+### <h1 align="center">Я Кубаныч, Front-End разработчик, 👨‍💻 Люблю разрабатывать приложений 🚀</h1>
 
 - 🔭 Сейчас я работаю над проектом [Booster-School](https://booster-school.vercel.app/)
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-## My Skill Set
+<h1>Мои Скилы</h1>
 
 <table><tr><td valign="top" width="33%">
 
@@ -37,15 +37,11 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-</td><td valign="top" width="33%">
-
 </td></tr></table>
 
 <br/>
 
-## Connect with me
+<h1>Соц Сети</h1>
 
 <div align="center">
 <a href="https://github.com/https://github.com/Diligen1" target="_blank">

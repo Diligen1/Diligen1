@@ -9,7 +9,8 @@
 Latest Youtube
 
 Languege and Tools
-![HTML](https://img.shields.io/badge/React-fb8500?style=for-the-badge&logo=html&logoColor=fb8500)
+![HTML](https://img.shields.io/badge/HTML-fb8500?style=for-the-badge&logo=html&logoColor=fb8500)
+![CSS](https://img.shields.io/badge/CSS-023e8a?style=for-the-badge&logo=css&logoColor=023e8a)
 ![React](https://img.shields.io/badge/React-d62828?style=for-the-badge&logo=react&logoColor=219ebc)
 
 Follow Me
